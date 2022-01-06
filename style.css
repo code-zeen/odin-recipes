@@ -1,0 +1,18 @@
+/* style.css */
+
+.intro {
+    display: flex;
+}
+
+.intro img {
+    height: auto;
+    width: 60px;
+    margin: 15px 30px;
+}
+
+.intro .site-title {
+    padding: 10px;
+    margin: 15px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 36px;
+}
